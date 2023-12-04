@@ -1,0 +1,18 @@
+{
+    "name": "mickami.polymorphic-serialization.editor",
+    "rootNamespace": "MicKami.PolymorphicSerialization.Editor",
+    "references": [
+        "GUID:6e09dbabe8fe2da4d9f24d471dd868c8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

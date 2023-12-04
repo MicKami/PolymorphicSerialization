@@ -1,0 +1,14 @@
+{
+    "name": "mickami.polymorphic-serialization.runtime",
+    "rootNamespace": "MicKami.PolymorphicSerialization",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
