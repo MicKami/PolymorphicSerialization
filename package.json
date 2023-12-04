@@ -5,8 +5,8 @@
   "description": "This package provides [Polymorphic] attribute for your abstract fields (Abstract Class \\ Interface) allowing to choose derived implementation through inspector",
   "unity": "2021.3",
   "unityRelease": "32f1",
-  "documentationUrl": "https://github.com/MicKami/PolymorphicSerialization/blob/master/README.txt",
-  "licensesUrl": "https://github.com/MicKami/PolymorphicSerialization/blob/master/LICENSE.txt",
+  "documentationUrl": "https://github.com/MicKami/PolymorphicSerialization/blob/master/README.md",
+  "licensesUrl": "https://github.com/MicKami/PolymorphicSerialization/blob/master/LICENSE.md",
   "author": {
     "name": "Micha\u0142 Kami\u0144ski",
     "email": "mich.kam97@gmail.com",
